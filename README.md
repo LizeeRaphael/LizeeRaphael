@@ -1,6 +1,6 @@
 - 👋 Hi, I am @LizeeRaphael
 - 👀 I’m a full stack developer
-- 🌱 Professional in UI/UX designs
+- 🌱 I'm also a digital expert
 - 💞️ I'm looking forward to collaborate on projects that i fit in
 - 📫 You can reach me @lizeeraphael on all socialmedia.
 
