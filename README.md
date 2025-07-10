@@ -1,8 +1,9 @@
-- 👋 Hi, I am @LizeeRaphael
+- 👋 Hi, I am @LizeeRaphael (Akinbola Elizabeth)
 - 👀 I’m a web developer
-- 🌱 I'm also a digital expert
-- 💞️ I'm looking forward to collaborate on projects that i fit in
-- 📫 You can reach me @ Akinbola Elizabeth on all LinkedIn.
+- 🌱 Ask me about Web designs, web development/software development.
+- 💞️ I'm looking forward to work and collaborate on projects.
+- 📫 You can reach me @ Akinbola Elizabeth on LinkedIn.
+Or lizeeraphael@gmail.com
 
 <!---
 LizeeRaphael/LizeeRaphael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
