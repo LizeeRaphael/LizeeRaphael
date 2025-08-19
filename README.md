@@ -1,5 +1,6 @@
 - Liz | Logic - Software Developer 💻
 - Website designs | App development | Fullstack development
+- Unleashing creativity through pixels & logic 🧠
 - 📧bookelizabethakinbola@gmail.com
 
 <!---
