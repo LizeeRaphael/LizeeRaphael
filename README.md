@@ -1,6 +1,6 @@
-Liz | Logic - Software Developer 💻
-Website designs | App development | Fullstack development
-📧bookelizabethakinbola@gmail.com
+- Liz | Logic - Software Developer 💻
+- Website designs | App development | Fullstack development
+- 📧bookelizabethakinbola@gmail.com
 
 <!---
 LizeeRaphael/LizeeRaphael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
