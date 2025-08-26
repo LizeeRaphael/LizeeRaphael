@@ -1,6 +1,6 @@
 - Liz | Logic - Software Developer 💻
 - Website designs | App development | Fullstack development
-- I turn ideas into software products 
+- I turn ideas into software products 🚀🚀🚀
 - 📧bookelizabethakinbola@gmail.com
 
 <!---
